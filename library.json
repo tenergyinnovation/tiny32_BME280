@@ -1,0 +1,17 @@
+{
+  "name": "tiny32_BME280",
+  "keywords": "FreeRTOS, ESP32, frameworks",
+  "description": "tiny32_BME280 Library",
+  "homepage": "https://www.tenergyinnovation.co.th",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tenergyinnovation/tiny32_BME280"
+  },
+  "version": "3.5.1",
+  "authors": {
+    "name": "tiny32_BME280",
+    "url": "https://github.com/tenergyinnovation/"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp32"
+}
